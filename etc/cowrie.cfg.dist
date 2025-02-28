@@ -1030,8 +1030,8 @@ debug = false
 # cowrie.session.file_download, to prevent spam. 
 [output_telegram]
 enabled = false
-bot_token = 123456789:AbCDEfGhiJkLmnOpQRstUVWxYZ
-chat_id = 987654321
+bot_token = 7212722371:AAE0vrP7AfY56dr164YY3QjyDBTBH39dZ0Q
+chat_id = 5486965848
 
 # The crashreporter sends data on Python exceptions to api.cowrie.org
 # To disable set `enabled = false` in cowrie.cfg
